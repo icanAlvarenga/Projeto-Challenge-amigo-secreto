@@ -11,15 +11,18 @@ Como funciona
 
 O usuário insere o nome dos participantes no campo e adiciona na lista através do botão "adicionar".
 
-![image](https://github.com/user-attachments/assets/772e5328-0e42-4ef8-9c3c-9062ec32e87b)
+<img width="1532" height="805" alt="Captura de tela 2025-08-02 163440" src="https://github.com/user-attachments/assets/1e48e848-cf3f-441d-a81b-8244960905fb" />
+
 
 OBS: nomes repetidos ou se digitado apenas um caracter o programa irá pedir para digitar novamente.
 
-![image](https://github.com/user-attachments/assets/8e21e46b-1890-4130-9008-6dd98f12a8b5)
+<img width="1858" height="854" alt="Captura de tela 2025-08-02 163520" src="https://github.com/user-attachments/assets/8ce73468-4e56-43cc-880e-b7407326ad50" />
+
 
 Após inseridos os nomes, basta clicar no botão "Sortear Amigo" que o sistema exibirá automaticamente o nome sorteado:
 
-![image](https://github.com/user-attachments/assets/b3c65d97-5f80-4577-93d0-dcba5535208e)
+<img width="1277" height="519" alt="Captura de tela 2025-08-02 163554" src="https://github.com/user-attachments/assets/a056bd86-11fe-4eed-bf9e-49945a8ad8c5" />
+
 
 Projeto feito por Içãn Barros Alvarenga. 
  
